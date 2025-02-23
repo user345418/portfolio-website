@@ -36,10 +36,10 @@ Open portfolio.html in your browser.
 Project Structure
 
 portfolio-website/
-│── portfolio.html   # Main Portfolio Page
-│── projects.html    # Projects Page
-│── images/          # Contains project images
-└── README.md        # Project Documentation
+ portfolio.html   # Main Portfolio Page
+ projects.html    # Projects Page
+ images/          # Contains project images
+ README.md        # Project Documentation
 
 Contributing
 
